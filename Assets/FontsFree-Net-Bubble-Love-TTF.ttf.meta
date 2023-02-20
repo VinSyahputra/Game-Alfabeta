@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1f41a87f02a2fff47995e41731f43883
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bubble Love
+  fontNames:
+  - Bubble Love
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3931a0354582fe3479404ebb6f1f3a36, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

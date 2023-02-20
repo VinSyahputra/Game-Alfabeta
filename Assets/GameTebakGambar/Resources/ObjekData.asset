@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: ObjekData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: e1c91445c95524043a1be4bbd833035f, type: 3}
+    answer: baju
+  - questionImage: {fileID: 21300000, guid: b2d7172ae06484f4bad246210222b49b, type: 3}
+    answer: buku
+  - questionImage: {fileID: 21300000, guid: 245e4d6d49916ca4885e710154ef6884, type: 3}
+    answer: jam
+  - questionImage: {fileID: 21300000, guid: bf4041c96c6d160448743ed21c96a8dc, type: 3}
+    answer: kapal
+  - questionImage: {fileID: 21300000, guid: 62798f13f3ec4a24891689ef9c030ab9, type: 3}
+    answer: kursi
+  - questionImage: {fileID: 21300000, guid: 9d5634c320e40c5488efe3e9ff412730, type: 3}
+    answer: kulkas
+  - questionImage: {fileID: 21300000, guid: bf90bf48216fccb44b1221a17f9d497c, type: 3}
+    answer: sepeda
+  - questionImage: {fileID: 21300000, guid: eec1e10475015ea4bbc6302b3103ed68, type: 3}
+    answer: meja
+  - questionImage: {fileID: 21300000, guid: 45f25c88332f0764a8b50afd58e7a813, type: 3}
+    answer: mobil
+  - questionImage: {fileID: 21300000, guid: d0952dd445342ce4db0b242dec1a231e, type: 3}
+    answer: pesawat
+  - questionImage: {fileID: 21300000, guid: ab6cfc9fa5bf9414d8345acb05b3a71b, type: 3}
+    answer: pintu
+  - questionImage: {fileID: 21300000, guid: dab1d40601e26394091cd8ca3da54e09, type: 3}
+    answer: sendok
+  - questionImage: {fileID: 21300000, guid: 24e6807003ef5d344a87b1291a709a2b, type: 3}
+    answer: sepatu
+  - questionImage: {fileID: 21300000, guid: dc51ff16f63a7af46a3530f82bde16a8, type: 3}
+    answer: topi
+  - questionImage: {fileID: 21300000, guid: f0b5a00e36620b44ea765d2dab39af0f, type: 3}
+    answer: mulut
+  - questionImage: {fileID: 21300000, guid: 514082d6ff290054faaef21ce2a912ce, type: 3}
+    answer: pensil
+  - questionImage: {fileID: 21300000, guid: 0c2d209825741d848ab88adbc2e360bb, type: 3}
+    answer: hidung
+  - questionImage: {fileID: 21300000, guid: 241b0b1e4ef6f114b83491f5c23139de, type: 3}
+    answer: jeruk
+  - questionImage: {fileID: 21300000, guid: 90976cbd0454f6e4aa52271b2467ba11, type: 3}
+    answer: lampu
+  - questionImage: {fileID: 21300000, guid: 060b2e8eae1f46041ad20f036f487d85, type: 3}
+    answer: mata
